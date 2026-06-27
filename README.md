@@ -1,4 +1,4 @@
-## Afton
+## Freddy Fazbear's Pizzeria, 19XX
 
 work in progress, as I'm trying to figure out how to work this. :-)
 
